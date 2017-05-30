@@ -5,3 +5,7 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 
 
 WORKDIR /www
+
+RUN cd /www
+
+RUN composer require friendsofsymfony/user-bundle

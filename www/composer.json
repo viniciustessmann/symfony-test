@@ -1,0 +1,13 @@
+{
+    "name": "Test symfony",
+    "description": "Breve descrição do que a aplicação se propoe a fazer",
+    "authors": [
+        {
+            "name": "Vinícius Schlee Tessmann",
+            "email": "viniciusschleetessmann@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8"
+    }
+}
